@@ -1,0 +1,22 @@
+PODS:
+  - ChameleonFramework/Default (2.1.0)
+  - ChameleonFramework/Swift (2.1.0):
+    - ChameleonFramework/Default
+  - SwipeCellKit (2.7.1)
+
+DEPENDENCIES:
+  - ChameleonFramework/Swift
+  - SwipeCellKit
+
+SPEC REPOS:
+  trunk:
+    - ChameleonFramework
+    - SwipeCellKit
+
+SPEC CHECKSUMS:
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  SwipeCellKit: 3972254a826da74609926daf59b08d6c72e619ea
+
+PODFILE CHECKSUM: 2edda55c285bf92e0a98530efa11f99a76fe6585
+
+COCOAPODS: 1.11.2
